@@ -1,0 +1,4 @@
+datasets
+ipywidgets
+tensorflow
+torch==1.8.1
