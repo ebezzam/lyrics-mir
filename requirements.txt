@@ -1,4 +1,5 @@
+pandas==1.1.4
 datasets
 ipywidgets
-tensorflow
+tensorflow==2.4.1
 torch==1.8.1
