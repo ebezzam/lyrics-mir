@@ -18,3 +18,5 @@ Code can be found in the `notebooks` folder, with a demo in
 [`notebooks/5_recommendation_demo.ipynb`](https://github.com/ebezzam/lyrics-mir/blob/main/notebooks/5_recommendation_demo.ipynb).
 
 A report summarizing our work and results can be found in `report.pdf`.
+
+Finetuned models and pre-computed embeddings and clusterings can be downloaded [here](https://drive.switch.ch/index.php/s/bzD51pQFdPeDOvx) and placed in the `notebooks` folder.
